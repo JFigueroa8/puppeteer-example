@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node device_test.js",
+    "refresh": "rm -f images/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFigueroa8/puppeteer-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFigueroa8/puppeteer-example/issues"
+  },
+  "homepage": "https://github.com/JFigueroa8/puppeteer-example#readme",
+  "dependencies": {
+    "puppeteer": "^1.6.1"
+  }
+}
